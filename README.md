@@ -1,7 +1,8 @@
-# Project name : VitiansHub : A place where Vitians can enhance 
+# Project name : VitiansHub : A place where Vitians can enhance themselves
 
 # Description : 
-The aim of the project is to help the college students, i.e. our targeted audience is college students for a specific college. The model of the Project we have implemented is to help students to get information regarding college from seniors and classmates. Every student is provided with a unique username(Username would be their email id) and password. So that students can able log in to the portal where they can view and able to download all informative things like previous year question papers, notes, time table, regarding clubs, and internship and placement information.
+The aim of the project is to help the college students, i.e. our targeted audience is college students for a specific college. The model of the Project we have implemented is to help students to get information regarding college from seniors and classmates. Every student is provided with a unique username(Username would be their email id) and password. So that students can able log in to the portal where they can view and able to download all informative things like previous year question papers, notes, regarding clubs, and internship and placement information.And they can also chat with juniors, seniors and alumni.
+
 
 
 # Website Live :
