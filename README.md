@@ -12,7 +12,7 @@ The aim of the project is to help the college students, i.e. our targeted audien
 
 # Download project from github :
 
-[Click here to Download](https://github.com/mravirajsingh/web-development-project-2.git)
+[Click here to Download](https://codeload.github.com/mravirajsingh/web-development-project-2/zip/refs/heads/main)
 
 
 
